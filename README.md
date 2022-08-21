@@ -1,1 +1,2 @@
-# MatchGame-master
+# Match Game
+A simple matching game
